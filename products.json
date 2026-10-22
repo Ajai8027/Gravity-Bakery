@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Princess Celebration",
+    "cat": "Tiered cakes",
+    "image": "gravity-1.jpg",
+    "desc": "A pink tiered cake decorated with princess toppers, butterflies and pastel spheres. Discuss your preferred colours, message, flavour and serving size."
+  },
+  {
+    "name": "Rainbow Character Party",
+    "cat": "Tiered cakes",
+    "image": "gravity-4.jpg",
+    "desc": "A three-tier celebration cake with colourful character toppers, rainbow details and a personalised name. Ask about custom themes and portion sizes."
+  },
+  {
+    "name": "Purple & Gold Celebration",
+    "cat": "Celebration cakes",
+    "image": "gravity-5.jpg",
+    "desc": "A white cake finished with a vivid purple drip, pink roses and gold accents. A photographed celebration design; confirm flavour and decoration options."
+  },
+  {
+    "name": "Rainbow Garden Birthday",
+    "cat": "Kids’ cakes",
+    "image": "gravity-6.jpg",
+    "desc": "A bright garden-themed birthday cake with a rainbow, character figures, flowers and a number topper. Share the birthday age and your design preferences."
+  },
+  {
+    "name": "Pastel Unicorn Birthday",
+    "cat": "Kids’ cakes",
+    "image": "gravity-7.jpg",
+    "desc": "A pastel-striped cake with a unicorn decoration, stars, clouds and a birthday topper. Enquire about personalising the name, colours, flavour and size."
+  }
+]
